@@ -49,8 +49,8 @@ print(recommendations)
 
 ## Data Sources
 
-- [Rotten Tomatoes Movies Dataset](https://example.com/rotten_tomatoes_movies.csv)
-- [Rotten Tomatoes Movie Reviews Dataset](https://example.com/rotten_tomatoes_movie_reviews.csv)
+- [Rotten Tomatoes Movies Dataset](https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews)
+- [Rotten Tomatoes Movie Reviews Dataset](https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews)
 
 ## Functionality
 
@@ -66,7 +66,3 @@ print(recommendations)
    - Constructs a review matrix with critics as rows and movie IDs as columns.
    - Implements a KNN model to find similar movies based on critic ratings.
    - Returns the top N recommended movies based on a specified movie title.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
